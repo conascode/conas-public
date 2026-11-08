@@ -1,0 +1,14 @@
+{
+  "name": "conas-public",
+  "owner": {
+    "name": "CONAS"
+  },
+  "description": "CONAS가 만든 Claude 플러그인 모음",
+  "plugins": [
+    {
+      "name": "prompt-kit",
+      "source": "./prompt-kit",
+      "description": "Claude가 바로 만들지 않고 먼저 같이 구상하게 해주는 프롬프트 도구 모음 (한국어)"
+    }
+  ]
+}

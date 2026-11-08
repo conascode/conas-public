@@ -1,0 +1,7 @@
+{
+  "name": "prompt-kit",
+  "version": "1.0.0",
+  "description": "Claude가 바로 만들지 않고 먼저 같이 구상하게 해주는 프롬프트 도구 모음: 프롬프트 위젯, 구상 모드(/구상), 만들기 신호(/만들어)",
+  "author": { "name": "CONAS" },
+  "homepage": "https://github.com/conascode/conas-public"
+}
